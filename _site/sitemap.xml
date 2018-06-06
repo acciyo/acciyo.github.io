@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
         <url>
-            <loc>http://localhost:4000/blog/about/index.html</loc>
+            <loc>https://acciyo.github.io/about/index.html</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/css/</loc>
+            <loc>https://acciyo.github.io/category/css/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/dev/</loc>
+            <loc>https://acciyo.github.io/category/dev/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/feed.xml</loc>
+            <loc>https://acciyo.github.io/feed.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/html/</loc>
+            <loc>https://acciyo.github.io/category/html/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/</loc>
+            <loc>https://acciyo.github.io/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/jekyll/</loc>
+            <loc>https://acciyo.github.io/category/jekyll/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/js/</loc>
+            <loc>https://acciyo.github.io/category/js/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/misc/</loc>
+            <loc>https://acciyo.github.io/category/misc/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/search.json</loc>
+            <loc>https://acciyo.github.io/search.json</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/series/index.html</loc>
+            <loc>https://acciyo.github.io/series/index.html</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/sitemap.xml</loc>
+            <loc>https://acciyo.github.io/sitemap.xml</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/category/svg/</loc>
+            <loc>https://acciyo.github.io/category/svg/</loc>
         </url>
     
         <url>
-            <loc>http://localhost:4000/blog/tags/index.html</loc>
+            <loc>https://acciyo.github.io/tags/index.html</loc>
         </url>
     
     
         <url>
-            <loc>http://localhost:4000/blog/test/</loc>
+            <loc>https://acciyo.github.io/test/</loc>
         </url>
   
         <url>
-            <loc>http://localhost:4000/blog/welcome-to-jekyll/</loc>
+            <loc>https://acciyo.github.io/welcome-to-jekyll/</loc>
         </url>
   
 </urlset>
