@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>http://localhost:4000/blog/about/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/css/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/dev/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/feed.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/html/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/jekyll/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/js/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/misc/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/search.json</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/series/index.html</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/sitemap.xml</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/category/svg/</loc>
+        </url>
+    
+        <url>
+            <loc>http://localhost:4000/blog/tags/index.html</loc>
+        </url>
+    
+    
+        <url>
+            <loc>http://localhost:4000/blog/test/</loc>
+        </url>
+  
+        <url>
+            <loc>http://localhost:4000/blog/welcome-to-jekyll/</loc>
+        </url>
+  
+</urlset>

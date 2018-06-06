@@ -1,0 +1,19 @@
+[
+  
+    {
+      "title"    : "Test",
+      "tags"     : "marketing and random test tag",
+      "categories"     : "html",
+      "url"      : "/blog/test/",
+      "date"     : "02 May 2018"
+    } ,
+  
+    {
+      "title"    : "Welcome to Jekyll",
+      "tags"     : "jekyll",
+      "categories"     : "jekyll",
+      "url"      : "/blog/welcome-to-jekyll/",
+      "date"     : "08 May 2016"
+    } 
+  
+]

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/BlogPosting" {% if page.main-class %}class="post-{{ page.main-class }}"{% endif %}>
+    {% include head.html %}
+    <body>
+        {% include header-post.html %}
+        {% include svg-icons.html %}
+        <div class="sticky-container">
+            <p>Share:</p>
+            <ul class="sticky">
+                <li id = "sticky-fb">
+                    <a aria-label="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ site.baseurl }}{{ page.url }}">
+                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                    </a>
+                <li id = "sticky-twitter">
+                    <a aria-label="Share on Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.twitter_text }}&quot;%20{{ site.url }}{{ site.baseurl }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}">
+                        <i class="fab fa-twitter" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li id = "sticky-linkedin">
+                    <a aria-label="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ site.baseurl }}{{ page.url }}">
+                        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
+                    </a>
+                </li>
+                <li id = "sticky-email">
+                    <a aria-label="Share via Email" href="mailto:?body={{ site.url }}{{ site.baseurl }}{{ page.url }}">
+                        <i class="fas fa-envelope" aria-hidden="true"></i>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <section class="post">
+
+            <article role="article" id="post" class="post-content" itemprop="articleBody">
+                {{ content }}
+            </article>
+            {% include footer.html %}
+        </section>
+    </body>
+</html>
