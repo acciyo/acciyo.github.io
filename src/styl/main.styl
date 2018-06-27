@@ -1,0 +1,111 @@
+/*  Syntax Quick Reference for Jeet
+    --------------------------
+    column(ratios = 1, offset = 0, cycle = 0, uncycle = 0, gutter = jeet.gutter)
+    span(ratio = 1, offset = 0)
+    shift(ratios = 0, col_or_span = column, gutter = jeet.gutter)
+    unshift()
+    edit()
+    center(max_width = 1410px, pad = 0)
+    stack(pad = 0, align = false)
+    unstack()
+    align(direction = both)
+    cf()
+
+    For more info see:
+        Kouto Swiss Doc: http://kouto-swiss.io/
+        Jeet Doc: http://jeet.gs
+
+    And of course, look in node_modules for axis-css and jeet
+*/
+
+@import "kouto-swiss"
+@import "jeet"
+normalize()
+@import "_variables"
+@import "_typo"
+@import "_icons"
+@import "_menu"
+@import "_search"
+@import "_elements"
+@import "_header"
+@import "_home"
+@import "_post"
+@import "_share"
+@import "_hightlight"
+@import "_author"
+@import "_footer"
+@import "_theme-colors"
+
+.sticky-container
+    padding 0px
+    margin 0px
+    position fixed
+    left -40px
+    top 375px
+    z-index 8
+
+.sticky li
+    list-style-type none
+    color #fff
+    height 43px
+    width 43px
+    padding 0px 
+    margin 0px
+    text-align center
+
+.sticky li img
+    float left
+    margin 5px 4px
+    margin-right 5px
+
+#sticky-fb
+    background-color #395697
+
+#sticky-twitter
+    background-color #50aee1
+
+#sticky-linkedin
+    background-color #007bb6
+
+#sticky-email
+    background-color #5d6769
+
+.sticky li a
+    text-align center
+    font-size 1.4em
+    color #fff
+    display inline-block
+    padding 6%
+
+.sticky .svg-inline--fa
+  vertical-align -.4em
+
+.sticky-container p
+    font-size 1em
+    font-weight 300
+    color black
+    text-align left
+    margin-left 40px
+
+.sticky-home
+    top 275px
+
+#blog-title
+    position relative
+    top 100px
+    text-align center
+
+@media screen and (max-width: 992px)
+    .sticky-container
+        padding 0px
+        position relative
+        top 375px
+        display inline-block
+        z-index -10
+        margin-left 20px
+    .sticky-container li
+        float left
+    .post
+        top 25rem
+
+
