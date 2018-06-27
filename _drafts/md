@@ -1,10 +1,12 @@
 ---
+ID: 148
+post_title: ""
+author: Cindy Zhang
+post_excerpt: ""
 layout: minimal
-title: "#Tags"
-permalink: /tags/index.html
-description: "Search for your favorite #tag."
+permalink: https://www.acciyo.com/?p=148
+published: false
 ---
-
 <div class="tags">
 {% assign tags_list = site.tags %}
   {% if tags_list.first[0] == null %}
