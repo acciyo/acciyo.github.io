@@ -4,7 +4,7 @@ post_title: Privacy Policy
 author: Anum Hussain
 post_excerpt: ""
 layout: page
-permalink: http://www.acciyo.com/privacy-policy/
+permalink: http://www.acciyo.com/privac/
 published: true
 post_date: 2018-07-05 19:35:30
 ---
