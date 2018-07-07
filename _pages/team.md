@@ -9,7 +9,20 @@ published: true
 post_date: 2018-07-05 18:16:20
 ---
 <div style="display: flex; justify-content: center;">
-<div style="width: 600px;">
+<div class="team-image-container">
+<style>
+.team-image-container {
+  width: 600px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+@media (max-width: 500px) {
+  .team-image-container {
+    justify-content: center;
+  }
+}
+</style>
 
 [caption id="attachment_158" align="alignleft" width="267"]<img class="wp-image-158 size-medium" src="http://www.acciyo.com/wp-content/uploads/2018/07/anum-nycss-headshot-267x300.png" alt="" width="267" height="300" /> <center><b>Anum Hussain, Co-Founder</b> <br />MIT Sloan MBA 2018 <br /><br /><i>Formerly</i><br />Sales Operations, Snapchat <br />Product &amp; Growth Marketing, HubSpot <br />Correspondent, Boston Globe</center>[/caption]
 
