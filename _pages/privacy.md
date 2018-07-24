@@ -28,7 +28,15 @@ post_date: 2018-07-05 19:35:30
 <ul>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">your name and email address. </span></li>
  	<li style="font-weight: 400;"><span style="font-weight: 400;">if you login from Google we also get your basic profile info, which includes ID, full name, given name, family name, image (photo) URL, and email. This also includes limited Calendar access, providing signals that help improve the product.</span></li>
- 	<li>reading and collecting data on your usage of the extension and usage of websites that are considered news sites. This list includes:
+</ul>
+</li>
+ 	<li style="font-weight: 400;"><b>Information we collect automatically</b><span style="font-weight: 400;">: We collect information about you and your use of our service, your interactions with us and our product, as well as information regarding your browser used to access our service (such as Chrome). This information includes:</span>
+<ul>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Your activity on the Acciyo service, such as clicking articles in our timeline and the date and time you use Acciyo</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Your interactions with our email, website, and messaging</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Details of your interactions with Customer Service, such as the date, time, and reason for contacting us</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">The internet address from which you access Acciyo, the link and tech you click and highlight on the web page alongside Acciyo, the website URLs you visit where you use Acciyo, and the date and time associated with all these activities.</span></li>
+ 	<li>Data on your usage of the extension and usage of websites that are considered news sites. This list includes:
 <ul>
  	<li>"huffingtonpost.com",
 "washingtonpost.com",
@@ -200,14 +208,6 @@ post_date: 2018-07-05 19:35:30
 "adn.com"</li>
 </ul>
 </li>
-</ul>
-</li>
- 	<li style="font-weight: 400;"><b>Information we collect automatically</b><span style="font-weight: 400;">: We collect information about you and your use of our service, your interactions with us and our product, as well as information regarding your browser used to access our service (such as Chrome). This information includes:</span>
-<ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Your activity on the Acciyo service, such as clicking articles in our timeline and the date and time you use Acciyo</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Your interactions with our email, website, and messaging</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Details of your interactions with Customer Service, such as the date, time, and reason for contacting us</span></li>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">The internet address from which you access Acciyo, the link and tech you click and highlight on the web page alongside Acciyo, the website URLs you visit where you use Acciyo, and the date and time associated with all these activities. </span></li>
 </ul>
 </li>
 </ul>
